@@ -8,6 +8,7 @@ public class proyectoA {
 		System.out.println("Hago una modificacion para probar PULL");
 	int numero=5;
  	int numero2=10;
+<<<<<<< HEAD
  	
  	System.out.println("Mi apellido es Frosasco");
 	
@@ -18,4 +19,14 @@ public class proyectoA {
 	
 	
 
+=======
+	
+System.out.println("Mi nombre es matias Frosasco");
+		
+		
+	}
+	
+	
+
+>>>>>>> ProyectoC
 }
