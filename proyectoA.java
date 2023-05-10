@@ -7,7 +7,7 @@ public class proyectoA {
 		System.out.println("Mi primer Git llamado: proyecto A ");
 		System.out.println("Hago una modificacion para probar PULL");
 	int numero=5;
-	int numero2=10;
+ 	int numero2=10;
 	
 
 		
