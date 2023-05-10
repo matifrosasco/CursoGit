@@ -9,7 +9,7 @@ public class proyectoA {
 	int numero=5;
  	int numero2=10;
  	
- 	
+ 	System.out.println("Mi apellido es Frosasco");
 	
 
 		
